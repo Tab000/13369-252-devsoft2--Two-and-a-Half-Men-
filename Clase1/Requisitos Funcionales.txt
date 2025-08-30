@@ -1,0 +1,10 @@
+1. Registro e inicio de sesion de usuarios, restaurantes y repartidores.
+2. Busqueda y filtrado de restaurantes por categoria, precio, tiempo estimado y calificacion.
+3. Sistema de recomendacion basado en el historial de pedidos y preferencias del usuario.
+4. Pedido individual o grupal.
+5. Pago en linea (tarjeta, billetera digital o tranferencia) y contra entrega.
+6. Notificaciones push sobre el estado del pedido.
+7. Seguimiento en tiempo real del pedido y repartidor.
+8. Historial de pedidos.
+9. calificacion y reseñas de restaurantes y repartidores.
+10. Chat integrado entre el usuario, el restaurante y el repartidor.

@@ -1,0 +1,5 @@
+HU1: Como usuario, quiero registrarme usando mi correo o redes sociales para acceder rápidamente a la plataforma.
+HU2: Como usuario, quiero ver restaurantes cercanos para pedir comida sin tener que buscar demasiado.
+HU3: Como usuario, quiero realizar un pedido y pagarlo en línea para evitar el manejo de efectivo.
+HU4: Como repartidor, quiero ver los pedidos disponibles cerca para elegir los que pueda entregar.
+HU5: Como restaurante, quiero recibir notificaciones de nuevos pedidos para prepararlos a tiempo.
